@@ -1,1 +1,70 @@
-/* Write CSS code here */
+section{
+    background-color:#047ade ;
+}#header{
+    background-color:#011a37;
+   display: block;
+   
+}#li{
+    display: inline-flex;
+   
+  
+}#ul{
+    margin-top: 35px;
+    margin-right: 300px;
+    
+} #a{
+    color: white;
+   text-decoration: none;
+ 
+}#grid{
+    display: grid;
+    grid-template-columns: 600px 550px;
+    margin-left: 100px;
+    height: 500px;
+   padding-top: 100px;
+}#container{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}#h2{
+    font-size: xx-large;
+    color: white;
+    margin-left: 20px;
+    margin-right: 800px;
+   
+}p{
+    color: white;
+    font-size: larger;
+    margin-left: 20px;
+   
+}button{
+    background-color: #047ade;
+    border: 2px wheat solid;
+    padding: 10px;
+    border-radius: 10%;
+    margin-left: 20px;
+}#div{
+    background-color: beige;
+    border-radius: 5%;
+    margin-top: 40px;
+    margin-left: 40px;
+    border: 2px solid gray;
+    box-shadow:5px 5px 5px 5px black;
+    height: 200px;
+  
+}h2{
+    font-family: Lato;
+    margin-left: 20px;
+   
+}li{
+    list-style-type: none;
+    font-size: large;
+   margin-left: 20px;
+   
+}#h1{
+    font-size: xx-large;
+    color: white;
+    margin-left: 20px;
+}#home{
+    border: 2px bottom white;
+}

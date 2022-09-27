@@ -2,7 +2,7 @@ section{
     background-color:#047ade ;
 }#header{
     background-color:#011a37;
-   display: block;
+   
    
 }#li{
     display: inline-flex;
@@ -65,6 +65,4 @@ section{
     font-size: xx-large;
     color: white;
     margin-left: 20px;
-}#home{
-    border: 2px bottom white;
 }
